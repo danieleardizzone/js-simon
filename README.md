@@ -9,7 +9,7 @@
     - Creiamo una FUNZIONE:
         - FINCHE non trovi 5 numeri diversi tra loro:
             - estrai numeri casuali da 1 a 99
-        - PUSHAMO i numeri in un array
+            - PUSHAMO il numero in un array
 
 - parte un timer di 30 secondi
 
